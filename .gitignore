@@ -1,0 +1,10 @@
+
+ghostdriver.log
+webdriver/phantomjs.exe
+webdriver/*.exe
+webdriver/chromedriver_win32.zip
+__pycache__/*
+webdriver/*.zip
+static/photos/*
+webdriver/chromedriver.exe
+webdriver/LICENSE.chromedriver
