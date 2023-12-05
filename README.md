@@ -1,4 +1,7 @@
-# Google Image Scraper
+[Data-gather-application.webm](https://github.com/justinwhitfieldd/image-collection-for-model-training/assets/91854905/abfb969f-5397-4cf4-a9c5-4c8d2946ce45)
+
+# Google Image Scraper and Data Churner
+
 A library created to scrape Google Images.<br>
 If you are looking for other image scrapers, JJLimmm has created image scrapers for Gettyimages, Shutterstock, and Bing. <br>
 Visit their repo here: https://github.com/JJLimmm/Website-Image-Scraper
